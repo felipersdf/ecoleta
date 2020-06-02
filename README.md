@@ -2,8 +2,6 @@
 
 ![Logo](.github/banner.png)
 
-<br>
-Ecoleta
 </h1>
 
 <p align="center"> Uma aplicação web e mobile capaz de conectar empresas e entidades de coleta de resíduos orgânicos e inorgânicos às pessoas que precisam descartar seus resíduos de maneira ecológica.
@@ -54,21 +52,23 @@ Estas foram as tecnologias utilizadas nesse projeto:
 
 ### Web
 
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  Tela Inicial
-  <img alt="EcoletaWeb" src="./github/home-web.svg" width="600px">
+<div align="center">
+  
+Tela Inicial
+![HomePage](.github/home-web.png)
 
 Tela de Cadastro
-<img alt="EcoletaWeb" src="./github/cadastro-web.svg" width="500px">
+![TelaCadastro](.github/cadastro-web.png)
 
-</p>
+</div>
 
 ### Mobile
 
 <div align="center">
 
 ![HomeMobile](/.github/home-mobile.png)
-![MobileDetails](/.github/detalhes-mobile.svg)
+
+![MobileDetails](/.github/detalhes-mobile.png)
 
 </div>
 
