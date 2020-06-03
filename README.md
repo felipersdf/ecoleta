@@ -54,10 +54,9 @@ Estas foram as tecnologias utilizadas nesse projeto:
 
 <div align="center">
   
-Tela Inicial
+#### Tela Inicial
 ![HomePage](.github/home-web.png)
-
-Tela de Cadastro
+#### Tela de Cadastro
 ![TelaCadastro](.github/cadastro-web.png)
 
 </div>
@@ -67,7 +66,6 @@ Tela de Cadastro
 <div align="center">
 
 ![HomeMobile](/.github/home-mobile.png)
-
 ![MobileDetails](/.github/detalhes-mobile.png)
 
 </div>
