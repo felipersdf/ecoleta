@@ -65,8 +65,9 @@ Estas foram as tecnologias utilizadas nesse projeto:
 
 <div align="center">
 
-![HomeMobile](/.github/home-mobile.png)
-![MobileDetails](/.github/detalhes-mobile.png)
+<img src="/.github/home-mobile.png" width="100" height="100" />
+
+![MobileDetails](/.github/detalhes-mobile.png){:heigh="40px" width="40px"}
 
 </div>
 
@@ -85,22 +86,19 @@ Estas foram as tecnologias utilizadas nesse projeto:
 
 1. Vá para a pasta do frontend: `cd web`
 2. Use `yarn start` para o iniciar o app web
-<!--
 
 ### Iniciando o app mobile
 
 1. Vá para a pasta do mobile: `cd mobile`
 2. Use `react-native run-android` (ou `run-ios` se você possuir um iOs) para iniciar o aplicativo mobile
 
-Nota: Se você escolher rodar no emulador android, você precisa iniciar o emulador antes de utilizar o comando `run-android`. -->
-
-<!--
+Nota: Se você escolher rodar no emulador android, você precisa iniciar o emulador antes de utilizar o comando `run-android`.
 
 #### Utilizando o expo no seu celular
 
 1. Instale o aplicativo Expo no seu celular (disponível na App Store [iOs] ou Google Play Store [Android] )
 2. Use `yarn start`
-3. Abra o Expo no seu celular e escaneie o QRCode. -->
+3. Abra o Expo no seu celular e escaneie o QRCode.
 
 ## License
 
