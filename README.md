@@ -22,7 +22,7 @@
   </a>
 
   <a aria-label="Completed" href="https://rocketseat.com.br/">
-    <img src="https://img.shields.io/badge/Next Level Week-In Progress-%2304D361?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
+    <img src="https://img.shields.io/badge/Next Level Week-Almost Done-%2304D361?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg==">
   </a>
 </p>
 
@@ -45,7 +45,7 @@ Estas foram as tecnologias utilizadas nesse projeto:
 - ⚛️ **TypeScript**
 - ⚛️ **React JS**
 - ⚛️ **React Native**
-<!-- - 📄 **SQLite**  -->
+- 📄 **SQLite**
 - ♻️ **Expo**
 
 ## 🎨 Layout da aplicação
@@ -55,9 +55,11 @@ Estas foram as tecnologias utilizadas nesse projeto:
 <div align="center">
   
 #### Tela Inicial
-![HomePage](.github/home-web.png)
+<img src=".github/home-web.png" width="600px" />
+
 #### Tela de Cadastro
-![TelaCadastro](.github/cadastro-web.png)
+
+<img src=".github/cadastro-web.png" width="600px" />
 
 </div>
 
@@ -65,9 +67,9 @@ Estas foram as tecnologias utilizadas nesse projeto:
 
 <div align="center">
 
-<img src="/.github/home-mobile.png" width="100" height="100" />
+<img src=".github/home-mobile.png" width="350px" />
 
-![MobileDetails](/.github/detalhes-mobile.png){:heigh="40px" width="40px"}
+<img src=".github/detalhes-mobile.png" width="350px" />
 
 </div>
 
