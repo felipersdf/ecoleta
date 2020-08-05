@@ -166,7 +166,7 @@ const CreatePoint = () => {
     } catch (err) {
       swal({
         title: 'Erro ao cadastrar!',
-        text: 'Tente nomvamente.',
+        text: 'Tente novamente.',
         icon: 'warning',
       });
     }
